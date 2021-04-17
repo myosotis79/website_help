@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Crawler Maker Help Pages
 
-You can use the [editor on GitHub](https://github.com/myosotis79/website_help/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+크롤러메이커 도움말 페이지입니다. 프로그램을 구동시키는 데에 있어 필요한 초기 설명을 보여드립니다. 누구나 쉽고 간단히 할 수 있는 크롤링을 원합니다.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
